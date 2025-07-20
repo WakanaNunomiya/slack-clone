@@ -1,6 +1,6 @@
 import type { Workspace } from "../../../modules/workspaces/workspace.entity";
-import CreateChannelModal from "./CreateChannelModal";
-import UserSearchModal from "./UserSearchModal";
+// import CreateChannelModal from "./CreateChannelModal";
+// import UserSearchModal from "./UserSearchModal";
 
 interface Props {
   selectedWorkspace: Workspace;

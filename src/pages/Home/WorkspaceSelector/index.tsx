@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { useUiStore } from "../../../modules/ui/ui.state";
 import { workspaceRepository } from "../../../modules/workspaces/workspace.repository";
 import CreateWorkspaceModal from "./CreateWorkspaceModal";
-import ProfileModal from "./ProfileModal";
+// import ProfileModal from "./ProfileModal";
 import { Workspace } from "../../../modules/workspaces/workspace.entity";
 
 interface Props {
